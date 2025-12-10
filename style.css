@@ -147,7 +147,6 @@ nav ul li a:hover {
     border-radius: 10px;
     overflow: hidden;
     position: relative; /* Relative positioning for child elements */
-    z-index: -1; /* Set z-index to be behind the header */
 }
 
 #map-section h2 {
@@ -203,4 +202,5 @@ nav ul li a:hover {
     font-family: 'Montserrat', sans-serif;
     flex-shrink: 0;
 }
+
 
